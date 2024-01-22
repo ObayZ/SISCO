@@ -1,0 +1,77 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/areejobay/Projects/SISCO_Dev/SISCO_Dev/obj/Release/net7.0/scopedcss/projectbundle/SISCO_Dev.bundle.scp.css",
+      "PackagePath": "staticwebassets/SISCO_Dev.bundle.scp.css"
+    },
+    {
+      "Id": "/Users/areejobay/Projects/SISCO_Dev/SISCO_Dev/wwwroot/css/bootstrap/bootstrap.min.css",
+      "PackagePath": "staticwebassets/css/bootstrap/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/areejobay/Projects/SISCO_Dev/SISCO_Dev/wwwroot/css/bootstrap/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/css/bootstrap/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/Users/areejobay/Projects/SISCO_Dev/SISCO_Dev/wwwroot/css/open-iconic/FONT-LICENSE",
+      "PackagePath": "staticwebassets/css/open-iconic"
+    },
+    {
+      "Id": "/Users/areejobay/Projects/SISCO_Dev/SISCO_Dev/wwwroot/css/open-iconic/ICON-LICENSE",
+      "PackagePath": "staticwebassets/css/open-iconic"
+    },
+    {
+      "Id": "/Users/areejobay/Projects/SISCO_Dev/SISCO_Dev/wwwroot/css/open-iconic/README.md",
+      "PackagePath": "staticwebassets/css/open-iconic/README.md"
+    },
+    {
+      "Id": "/Users/areejobay/Projects/SISCO_Dev/SISCO_Dev/wwwroot/css/open-iconic/font/css/open-iconic-bootstrap.min.css",
+      "PackagePath": "staticwebassets/css/open-iconic/font/css/open-iconic-bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/areejobay/Projects/SISCO_Dev/SISCO_Dev/wwwroot/css/open-iconic/font/fonts/open-iconic.eot",
+      "PackagePath": "staticwebassets/css/open-iconic/font/fonts/open-iconic.eot"
+    },
+    {
+      "Id": "/Users/areejobay/Projects/SISCO_Dev/SISCO_Dev/wwwroot/css/open-iconic/font/fonts/open-iconic.otf",
+      "PackagePath": "staticwebassets/css/open-iconic/font/fonts/open-iconic.otf"
+    },
+    {
+      "Id": "/Users/areejobay/Projects/SISCO_Dev/SISCO_Dev/wwwroot/css/open-iconic/font/fonts/open-iconic.svg",
+      "PackagePath": "staticwebassets/css/open-iconic/font/fonts/open-iconic.svg"
+    },
+    {
+      "Id": "/Users/areejobay/Projects/SISCO_Dev/SISCO_Dev/wwwroot/css/open-iconic/font/fonts/open-iconic.ttf",
+      "PackagePath": "staticwebassets/css/open-iconic/font/fonts/open-iconic.ttf"
+    },
+    {
+      "Id": "/Users/areejobay/Projects/SISCO_Dev/SISCO_Dev/wwwroot/css/open-iconic/font/fonts/open-iconic.woff",
+      "PackagePath": "staticwebassets/css/open-iconic/font/fonts/open-iconic.woff"
+    },
+    {
+      "Id": "/Users/areejobay/Projects/SISCO_Dev/SISCO_Dev/wwwroot/css/site.css",
+      "PackagePath": "staticwebassets/css/site.css"
+    },
+    {
+      "Id": "/Users/areejobay/Projects/SISCO_Dev/SISCO_Dev/wwwroot/favicon.png",
+      "PackagePath": "staticwebassets/favicon.png"
+    },
+    {
+      "Id": "obj/Release/net7.0/staticwebassets/msbuild.SISCO_Dev.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Release/net7.0/staticwebassets/msbuild.build.SISCO_Dev.props",
+      "PackagePath": "build\\SISCO_Dev.props"
+    },
+    {
+      "Id": "obj/Release/net7.0/staticwebassets/msbuild.buildMultiTargeting.SISCO_Dev.props",
+      "PackagePath": "buildMultiTargeting\\SISCO_Dev.props"
+    },
+    {
+      "Id": "obj/Release/net7.0/staticwebassets/msbuild.buildTransitive.SISCO_Dev.props",
+      "PackagePath": "buildTransitive\\SISCO_Dev.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
