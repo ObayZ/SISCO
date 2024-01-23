@@ -83,3 +83,13 @@
 /Users/areejobay/Projects/SISCO_Dev/SISCO_Dev/bin/Release/net7.0/https:/github.com/ObayZ/SISCO/appsettings.json
 /Users/areejobay/Projects/SISCO_Dev/SISCO_Dev/bin/Release/net7.0/https:/github.com/ObayZ/SISCO/SISCO_Dev.deps.json
 /Users/areejobay/Projects/SISCO_Dev/SISCO_Dev/bin/Release/net7.0/https:/github.com/ObayZ/SISCO/SISCO_Dev.runtimeconfig.json
+/Users/areejobay/Projects/SISCO_Dev/SISCO_Dev/bin/Release/net7.0/Microsoft.AspNetCore.Authorization.dll
+/Users/areejobay/Projects/SISCO_Dev/SISCO_Dev/bin/Release/net7.0/Microsoft.AspNetCore.Components.dll
+/Users/areejobay/Projects/SISCO_Dev/SISCO_Dev/bin/Release/net7.0/Microsoft.AspNetCore.Components.Forms.dll
+/Users/areejobay/Projects/SISCO_Dev/SISCO_Dev/bin/Release/net7.0/Microsoft.AspNetCore.Components.Web.dll
+/Users/areejobay/Projects/SISCO_Dev/SISCO_Dev/bin/Release/net7.0/Microsoft.AspNetCore.Components.WebAssembly.dll
+/Users/areejobay/Projects/SISCO_Dev/SISCO_Dev/bin/Release/net7.0/Microsoft.AspNetCore.Metadata.dll
+/Users/areejobay/Projects/SISCO_Dev/SISCO_Dev/bin/Release/net7.0/Microsoft.Extensions.Configuration.Binder.dll
+/Users/areejobay/Projects/SISCO_Dev/SISCO_Dev/bin/Release/net7.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/areejobay/Projects/SISCO_Dev/SISCO_Dev/bin/Release/net7.0/Microsoft.JSInterop.dll
+/Users/areejobay/Projects/SISCO_Dev/SISCO_Dev/bin/Release/net7.0/Microsoft.JSInterop.WebAssembly.dll

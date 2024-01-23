@@ -57,6 +57,10 @@
       "PackagePath": "staticwebassets/favicon.png"
     },
     {
+      "Id": "/Users/areejobay/Projects/SISCO_Dev/SISCO_Dev/wwwroot/index.html",
+      "PackagePath": "staticwebassets/index.html"
+    },
+    {
       "Id": "obj/Release/net7.0/staticwebassets/msbuild.SISCO_Dev.Microsoft.AspNetCore.StaticWebAssets.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
     },

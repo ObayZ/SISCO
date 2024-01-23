@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "VQI2MdGfLBa3UJgWS8+RbhXMtYPtPq/L/Hi8o9MvtTc=",
+  "Hash": "O0MJGG/hEKKjaFVu8LFR+C0iJqMGqM+f6jBEgjKy3J8=",
   "Source": "SISCO_Dev",
   "BasePath": "_content/SISCO_Dev",
   "Mode": "Default",
@@ -1290,6 +1290,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/favicon.png"
+    },
+    {
+      "Identity": "/Users/areejobay/Projects/SISCO_Dev/SISCO_Dev/wwwroot/index.html",
+      "SourceId": "SISCO_Dev",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/areejobay/Projects/SISCO_Dev/SISCO_Dev/wwwroot/",
+      "BasePath": "_content/SISCO_Dev",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/index.html"
     }
   ]
 }
