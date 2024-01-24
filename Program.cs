@@ -16,7 +16,7 @@ builder.Services.AddDbContext<ApplicationDbContext>(options =>
 builder.Services.AddDatabaseDeveloperPageExceptionFilter();
 builder.Services.AddDefaultIdentity<IdentityUser>(options => options.SignIn.RequireConfirmedAccount = true)
     .AddEntityFrameworkStores<ApplicationDbContext>();
-builder.Services.AddRazorPages();
+//builder.Services.AddRazorPages();
 builder.Services.AddServerSideBlazor();
 builder.Services.AddScoped<AuthenticationStateProvider, RevalidatingIdentityAuthenticationStateProvider<IdentityUser>>();
 builder.Services.AddSingleton<WeatherForecastService>();
@@ -28,6 +28,8 @@ builder.Services.AddServerSideBlazor()
         options.ClientTimeoutInterval = TimeSpan.FromSeconds(60);
         options.HandshakeTimeout = TimeSpan.FromSeconds(30);
     });
+
+
 //End of my edit
 
 var app = builder.Build();
